@@ -32,3 +32,5 @@ pip-log.txt
 
 config.conf
 *.db
+*.sublime-project
+*.sublime-workspace
